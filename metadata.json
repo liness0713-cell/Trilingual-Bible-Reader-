@@ -1,0 +1,5 @@
+{
+  "name": "Trilingual Bible Reader (三語聖経)",
+  "description": "A serene, trilingual Bible reading application supporting Chinese, Japanese (with Ruby/Furigana), and English. Powered by Gemini for accurate text and annotations.",
+  "requestFramePermissions": []
+}
